@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "Missionários e Pedidos de Oração",
+    "instructions": "Este arquivo é o cadastro de missionários do aplicativo. Adicione, edite ou remova entradas na lista 'missionaries' abaixo. Cada missionário deve ter: id (único), name, agency (agência/rede: JMN, JOCUM, Missão Antioquia, igreja local etc.), field (país/região onde atua), fieldCountry (nome do país igual ao usado em countries.json, para permitir o cruzamento de dados), since (ano de início do campo), focus (breve descrição do trabalho), prayerRequests (lista de pedidos de oração atuais), lastUpdated (data AAAA-MM-DD da última atualização desse pedido) e sourceNote (de onde veio a informação, ex.: site da agência, boletim, contato direto). As entradas abaixo são EXEMPLOS ilustrativos baseados em informações públicas gerais de agências brasileiras de missões (JMN - Junta de Missões Nacionais, JOCUM - Jovens Com Uma Missão) e devem ser substituídas pelos dados reais dos seus missionários.",
+    "howToUpdate": "1) Abra este arquivo. 2) Edite os campos dos missionários existentes ou copie um bloco inteiro dentro dos colchetes [ ] para cadastrar um novo. 3) Sempre atualize 'lastUpdated' ao mudar um pedido de oração, para o app mostrar 'atualizado há X dias'. 4) Fontes gratuitas sugeridas para pesquisa: JMN (jmn.org.br), JOCUM Brasil (jocum.org.br), Portas Abertas (portasabertas.org.br), Missão Antioquia, boletins de igrejas e redes sociais oficiais das agências.",
+    "generatedAt": "2026-09-21"
+  },
+  "missionaries": [
+    {
+      "id": "m001",
+      "name": "Exemplo: Casal missionário (substitua pelo nome real)",
+      "agency": "JMN - Junta de Missões Nacionais",
+      "field": "Amazônia - povos ribeirinhos",
+      "fieldCountry": "Brasil",
+      "since": 2018,
+      "focus": "Plantação de igrejas e alfabetização em comunidades ribeirinhas do rio Solimões.",
+      "prayerRequests": [
+        "Saúde da família durante a estação de chuvas",
+        "Abertura de uma nova comunidade para evangelização",
+        "Provisão financeira para o barco de transporte fluvial"
+      ],
+      "lastUpdated": "2026-09-01",
+      "sourceNote": "Exemplo ilustrativo baseado no perfil de missões nacionais da JMN — substitua por dados reais."
+    },
+    {
+      "id": "m002",
+      "name": "Exemplo: Missionário(a) solteiro(a) (substitua pelo nome real)",
+      "agency": "JOCUM - Jovens Com Uma Missão",
+      "field": "Norte da África",
+      "fieldCountry": "Marrocos",
+      "since": 2021,
+      "focus": "Discipulado de novos convertidos e trabalho social com refugiados.",
+      "prayerRequests": [
+        "Proteção em um contexto de restrição à fé cristã",
+        "Sabedoria para relacionamentos com autoridades locais",
+        "Discipulado contínuo de 3 novos crentes"
+      ],
+      "lastUpdated": "2026-08-20",
+      "sourceNote": "Exemplo ilustrativo baseado no perfil de campos da JOCUM no Norte da África — substitua por dados reais."
+    },
+    {
+      "id": "m003",
+      "name": "Exemplo: Família missionária (substitua pelo nome real)",
+      "agency": "Missão local / Igreja enviadora",
+      "field": "Sul e Sudeste Asiático",
+      "fieldCountry": "Camboja",
+      "since": 2016,
+      "focus": "Capacitação de líderes locais e tradução de material bíblico.",
+      "prayerRequests": [
+        "Vistos de permanência para a família",
+        "Formação da segunda turma de líderes locais",
+        "Recuperação de saúde de um dos filhos"
+      ],
+      "lastUpdated": "2026-09-10",
+      "sourceNote": "Exemplo ilustrativo — substitua por dados reais."
+    }
+  ]
+}

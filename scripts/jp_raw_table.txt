@@ -1,0 +1,205 @@
+Afghanistan | 44,894,000 | Islam | 0.0 | 0.0
+Albania | 2,700,000 | Islam | 0.5 | 17.4
+Algeria | 48,075,000 | Islam | 0.0 | 0.1
+American Samoa | 44,000 | Christianity | 25.3 | 95.4
+Andorra | 83,000 | Christianity | 1.4 | 90.6
+Angola | 39,960,000 | Christianity | 23.3 | 91.1
+Anguilla | 15,000 | Christianity | 34.6 | 90.6
+Antigua and Barbuda | 93,000 | Christianity | 25.1 | 92.9
+Argentina | 45,598,000 | Christianity | 11.1 | 93.1
+Armenia | 2,878,000 | Christianity | 9.3 | 92.2
+Aruba | 106,000 | Christianity | 9.9 | 95.5
+Australia | 27,095,000 | Christianity | 13.7 | 62.3
+Austria | 9,070,000 | Christianity | 0.6 | 67.3
+Azerbaijan | 10,363,000 | Islam | 0.2 | 1.3
+Bahamas | 400,000 | Christianity | 40.1 | 94.5
+Bahrain | 1,635,000 | Islam | 2.3 | 8.7
+Bangladesh | 176,513,000 | Islam | -1 | 0.5
+Barbados | 278,000 | Christianity | 34.2 | 92.6
+Belarus | 8,868,000 | Christianity | 1.7 | 69.0
+Belgium | 11,627,000 | Christianity | 1.4 | 64.1
+Belize | 414,000 | Christianity | 24.2 | 86.4
+Benin | 14,959,000 | Ethnic Religions | 7.5 | 31.4
+Bermuda | 62,000 | Christianity | 26.8 | 91.7
+Bhutan | 792,000 | Buddhism | -1 | 0.2
+Bolivia | 12,621,000 | Christianity | 19.4 | 91.8
+Bosnia-Herzegovina | 3,066,000 | Islam | 0.1 | 40.7
+Botswana | 2,545,000 | Christianity | 8.3 | 65.4
+Brazil | 212,903,000 | Christianity | 25.2 | 89.9
+Brunei | 463,000 | Islam | 4.2 | 8.2
+Bulgaria | 6,571,000 | Christianity | 2.0 | 82.2
+Burkina Faso | 24,381,000 | Islam | 10.7 | 21.1
+Burundi | 14,549,000 | Christianity | 30.5 | 93.1
+Cambodia | 17,955,000 | Buddhism | 1.4 | 3.3
+Cameroon | 30,456,000 | Christianity | 8.9 | 50.5
+Canada | 40,157,000 | Christianity | 7.6 | 70.8
+Cape Verde | 512,000 | Christianity | 8.2 | 84.3
+Cayman Islands | 76,000 | Christianity | 21.4 | 82.0
+Central African Republic | 5,631,000 | Christianity | 32.2 | 71.0
+Chad | 21,405,000 | Islam | 7.3 | 25.3
+Chile | 19,834,000 | Christianity | 23.1 | 87.1
+China | 1,394,527,000 | Non-Religious | 7.6 | 9.2
+China, Hong Kong | 7,323,000 | Ethnic Religions | 6.1 | 13.1
+China, Macau | 712,000 | Ethnic Religions | 1.9 | 7.9
+Colombia | 53,805,000 | Christianity | 10.8 | 93.3
+Comoros | 873,000 | Islam | 0.7 | 1.6
+Congo, Democratic Republic of | 115,512,000 | Christianity | 19.3 | 91.1
+Congo, Republic of the | 6,564,000 | Christianity | 14.8 | 84.8
+Costa Rica | 5,122,000 | Christianity | 18.5 | 95.4
+Cote d'Ivoire | 32,930,000 | Islam | 12.7 | 37.1
+Croatia | 3,745,000 | Christianity | 0.4 | 92.3
+Cuba | 10,775,000 | Christianity | 11.4 | 56.0
+Curacao | 182,000 | Christianity | 6.9 | 85.8
+Cyprus | 1,341,000 | Christianity | 1.7 | 71.2
+Czechia | 10,372,000 | Non-Religious | 0.7 | 27.9
+Denmark | 5,891,000 | Christianity | 3.6 | 81.5
+Djibouti | 1,161,000 | Islam | 0.1 | 2.2
+Dominica | 63,000 | Christianity | 18.1 | 91.8
+Dominican Republic | 11,489,000 | Christianity | 10.9 | 93.6
+Ecuador | 18,323,000 | Christianity | 10.6 | 93.5
+Egypt | 119,710,000 | Islam | 1.5 | 9.5
+El Salvador | 6,307,000 | Christianity | 45.2 | 94.1
+Equatorial Guinea | 1,922,000 | Christianity | 4.8 | 89.4
+Eritrea | 3,610,000 | Islam | 2.4 | 46.0
+Estonia | 1,282,000 | Non-Religious | 4.7 | 47.5
+Eswatini | 1,236,000 | Christianity | 20.7 | 83.7
+Ethiopia | 137,844,000 | Christianity | 17.9 | 61.0
+Fiji | 916,000 | Christianity | 26.5 | 64.2
+Finland | 5,510,000 | Christianity | 10.2 | 80.4
+France | 66,609,000 | Christianity | 1.3 | 62.2
+Gabon | 2,587,000 | Christianity | 10.8 | 73.4
+Gambia | 2,833,000 | Islam | 0.9 | 3.5
+Georgia | 3,716,000 | Christianity | 1.4 | 80.2
+Germany | 83,568,000 | Christianity | 2.1 | 61.5
+Ghana | 35,522,000 | Christianity | 25.9 | 62.0
+Greece | 9,809,000 | Christianity | 0.5 | 87.9
+Grenada | 112,000 | Christianity | 18.9 | 92.3
+Guatemala | 18,794,000 | Christianity | 25.1 | 95.1
+Guinea | 15,296,000 | Islam | 0.7 | 4.1
+Guinea-Bissau | 2,240,000 | Islam | 2.1 | 11.7
+Guyana | 818,000 | Christianity | 13.2 | 40.1
+Haiti | 11,920,000 | Christianity | 17.7 | 94.5
+Honduras | 11,077,000 | Christianity | 27.6 | 95.4
+Hungary | 9,479,000 | Christianity | 3.1 | 87.0
+Iceland | 385,000 | Christianity | 4.4 | 90.3
+India | 1,466,463,000 | Hinduism | -1 | 2.0
+Indonesia | 284,850,000 | Islam | 3.4 | 11.7
+Iran | 93,060,000 | Islam | 1.2 | 1.8
+Iraq | 47,669,000 | Islam | 0.2 | 0.9
+Ireland | 5,237,000 | Christianity | 1.7 | 90.5
+Israel | 9,498,000 | Judaism | 0.7 | 1.4
+Italy | 58,856,000 | Christianity | 1.5 | 81.8
+Jamaica | 2,811,000 | Christianity | 29.8 | 81.1
+Japan | 122,156,000 | Buddhism | 0.4 | 1.9
+Jordan | 11,523,000 | Islam | 0.3 | 2.2
+Kazakhstan | 20,908,000 | Islam | 0.5 | 11.8
+Kenya | 58,490,000 | Christianity | 45.8 | 80.3
+Korea, North | 26,556,000 | Non-Religious | 1.6 | 1.7
+Korea, South | 51,535,000 | Non-Religious | 16.3 | 29.9
+Kosovo | 1,637,000 | Islam | 0.2 | 4.0
+Kuwait | 5,000,000 | Islam | 1.6 | 10.5
+Kyrgyzstan | 7,310,000 | Islam | 0.3 | 3.7
+Laos | 7,870,000 | Buddhism | 2.5 | 3.6
+Latvia | 1,778,000 | Christianity | 7.6 | 60.1
+Lebanon | 5,829,000 | Islam | 0.7 | 31.5
+Lesotho | 2,341,000 | Christianity | 13.0 | 89.3
+Liberia | 5,772,000 | Ethnic Religions | 11.7 | 39.8
+Libya | 7,453,000 | Islam | 0.2 | 2.4
+Liechtenstein | 40,000 | Christianity | 0.6 | 77.1
+Lithuania | 2,758,000 | Christianity | 1.4 | 84.7
+Luxembourg | 649,000 | Christianity | 1.0 | 80.7
+Madagascar | 33,215,000 | Christianity | 6.1 | 49.4
+Malawi | 22,533,000 | Christianity | 17.1 | 73.7
+Malaysia | 36,191,000 | Islam | 3.6 | 9.7
+Maldives | 510,000 | Islam | 0.0 | 0.0
+Mali | 25,748,000 | Islam | 0.7 | 2.8
+Malta | 530,000 | Christianity | 1.6 | 96.8
+Marshall Islands | 33,000 | Christianity | 53.4 | 94.6
+Mauritania | 5,366,000 | Islam | 0.1 | 0.2
+Mauritius | 1,220,000 | Hinduism | 9.8 | 32.7
+Mexico | 132,388,000 | Christianity | 10.5 | 95.1
+Micronesia, Federated States | 111,000 | Christianity | 22.8 | 94.9
+Moldova | 2,904,000 | Christianity | 1.2 | 76.5
+Monaco | 37,000 | Christianity | 1.3 | 82.3
+Mongolia | 3,485,000 | Buddhism | 1.3 | 2.3
+Montenegro | 607,000 | Christianity | 0.3 | 73.9
+Morocco | 38,450,000 | Islam | 0.1 | 0.2
+Mozambique | 36,293,000 | Christianity | 10.8 | 45.8
+Myanmar (Burma) | 55,042,000 | Buddhism | 5.3 | 9.0
+Namibia | 3,093,000 | Christianity | 12.5 | 88.3
+Nauru | 11,000 | Christianity | 12.6 | 85.4
+Nepal | 29,288,000 | Hinduism | -1 | 1.4
+Netherlands | 18,310,000 | Christianity | 4.0 | 46.7
+New Zealand | 5,191,000 | Christianity | 17.8 | 50.8
+Nicaragua | 6,982,000 | Christianity | 43.3 | 96.1
+Niger | 28,389,000 | Islam | 1.0 | 1.6
+Nigeria | 242,137,000 | Christianity | 26.8 | 51.6
+North Macedonia | 1,783,000 | Christianity | 0.2 | 61.8
+Norway | 5,550,000 | Christianity | 7.9 | 86.4
+Oman | 5,626,000 | Islam | 0.7 | 2.9
+Pakistan | 257,460,000 | Islam | -1 | 0.9
+Palau | 18,000 | Christianity | 20.7 | 89.7
+Panama | 4,600,000 | Christianity | 21.7 | 88.0
+Papua New Guinea | 10,789,000 | Christianity | 23.4 | 94.3
+Paraguay | 7,015,000 | Christianity | 8.1 | 94.6
+Peru | 34,665,000 | Christianity | 14.5 | 94.1
+Philippines | 117,536,000 | Christianity | 11.3 | 88.2
+Poland | 37,710,000 | Christianity | 0.3 | 89.6
+Portugal | 10,307,000 | Christianity | 3.5 | 92.6
+Qatar | 3,139,000 | Islam | 1.0 | 6.4
+Romania | 18,617,000 | Christianity | 6.4 | 93.6
+Russia | 142,549,000 | Christianity | 1.4 | 56.8
+Rwanda | 14,667,000 | Christianity | 26.8 | 90.2
+Saint Kitts and Nevis | 46,000 | Christianity | 22.1 | 92.5
+Saint Lucia | 175,000 | Christianity | 18.6 | 94.8
+Samoa | 218,000 | Christianity | 18.5 | 95.2
+San Marino | 33,000 | Christianity | 0.1 | 84.0
+Sao Tome and Principe | 232,000 | Christianity | 5.9 | 86.2
+Saudi Arabia | 35,124,000 | Islam | 0.5 | 3.7
+Senegal | 19,118,000 | Islam | 0.2 | 4.5
+Serbia | 6,514,000 | Christianity | 0.7 | 78.1
+Seychelles | 131,000 | Christianity | 7.0 | 96.2
+Sierra Leone | 8,943,000 | Islam | 4.9 | 12.8
+Singapore | 5,841,000 | Buddhism | 7.1 | 12.9
+Slovakia | 5,380,000 | Christianity | 1.5 | 92.5
+Slovenia | 2,078,000 | Christianity | 0.2 | 54.0
+Solomon Islands | 833,000 | Christianity | 31.3 | 95.4
+Somalia | 20,113,000 | Islam | 0.1 | 0.5
+South Africa | 65,203,000 | Christianity | 21.1 | 76.8
+South Sudan | 12,352,000 | Christianity | 19.8 | 63.7
+Spain | 47,727,000 | Christianity | 1.6 | 77.0
+Sri Lanka | 23,142,000 | Buddhism | -1 | 7.3
+St Vincent and Grenadines | 95,000 | Christianity | 41.5 | 89.2
+Sudan | 52,823,000 | Islam | 0.5 | 2.3
+Suriname | 627,000 | Christianity | 17.3 | 48.6
+Sweden | 10,595,000 | Christianity | 5.7 | 54.8
+Switzerland | 8,889,000 | Christianity | 4.0 | 75.6
+Syria | 26,141,000 | Islam | 0.2 | 5.4
+Taiwan | 22,947,000 | Ethnic Religions | 3.3 | 6.4
+Tajikistan | 10,916,000 | Islam | 0.1 | 0.4
+Tanzania | 72,276,000 | Christianity | 11.0 | 50.4
+Thailand | 71,403,000 | Buddhism | 0.7 | 1.8
+Timor-Leste | 1,396,000 | Christianity | 2.5 | 90.7
+Togo | 9,790,000 | Christianity | 11.1 | 45.2
+Tonga | 99,000 | Christianity | 15.8 | 95.9
+Trinidad and Tobago | 1,465,000 | Christianity | 23.9 | 66.6
+Tunisia | 12,388,000 | Islam | 0.0 | 0.5
+Turkiye (Turkey) | 87,756,000 | Islam | 0.0 | 0.6
+Turkmenistan | 7,622,000 | Islam | 0.1 | 3.7
+Tuvalu | 8,700 | Christianity | 22.9 | 98.0
+Uganda | 52,442,000 | Christianity | 34.1 | 84.3
+Ukraine | 39,036,000 | Christianity | 3.7 | 72.6
+United Arab Emirates | 11,466,000 | Islam | 1.5 | 6.6
+United Kingdom | 69,790,000 | Christianity | 7.5 | 55.6
+United States | 347,347,000 | Christianity | 26.6 | 76.6
+Uruguay | 3,302,000 | Christianity | 7.3 | 66.3
+Uzbekistan | 37,360,000 | Islam | 0.2 | 2.3
+Vanuatu | 329,000 | Christianity | 41.6 | 91.1
+Venezuela | 28,462,000 | Christianity | 12.2 | 82.4
+Vietnam | 101,339,000 | Buddhism | 2.2 | 10.2
+West Bank / Gaza | 5,640,000 | Islam | 1.1 | 2.5
+Yemen | 42,544,000 | Islam | 0.0 | 0.2
+Zambia | 22,332,000 | Christianity | 25.1 | 86.3
+Zimbabwe | 17,073,000 | Christianity | 25.3 | 76.7
+Kiribati | 133,000 | Christianity | 8.6 | 98.4
+Vatican City | 1,000 | Christianity | 2.5 | 100.0

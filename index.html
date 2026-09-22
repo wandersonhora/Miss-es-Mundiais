@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Painel de Missões Mundiais</title>
+<meta name="description" content="Informações missionárias atualizáveis: percentual de evangélicos e outras religiões por país, perseguição religiosa, missionários e pedidos de oração.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌍</text></svg>">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <span class="brand-icon">🌍</span>
+        <div>
+          <h1>Painel de Missões Mundiais</h1>
+          <p class="subtitle">Missões nacionais e internacionais · dados atualizáveis</p>
+        </div>
+      </div>
+      <div class="clock-box" id="clockBox">
+        <span id="clockDate">--/--/----</span>
+        <span id="clockTime">--:--:--</span>
+        <span class="tz">America/Sao_Paulo</span>
+      </div>
+    </div>
+  </header>
+
+  <div class="freshness-bar" id="freshnessBar">
+    <span id="freshnessText">Verificando atualização dos dados…</span>
+  </div>
+
+  <nav class="tabs" id="tabs">
+    <button class="tab-btn active" data-tab="paises">🌎 Países &amp; Religiões</button>
+    <button class="tab-btn" data-tab="perseguicao">🚨 Perseguição</button>
+    <button class="tab-btn" data-tab="mapa">🗺️ Mapa da Perseguição</button>
+    <button class="tab-btn" data-tab="missionarios">🙏 Missionários &amp; Oração</button>
+    <button class="tab-btn" data-tab="sobre">ℹ️ Fontes &amp; Como atualizar</button>
+  </nav>
+
+  <main>
+    <!-- ABA PAÍSES -->
+    <section id="tab-paises" class="tab-panel active">
+      <div class="panel-header">
+        <h2>Percentual de evangélicos e outras religiões por país</h2>
+        <p class="panel-desc">Dados demográficos religiosos (Joshua Project). Use a busca e os filtros para explorar.</p>
+      </div>
+
+      <div class="stats-row" id="statsRow"></div>
+
+      <div class="controls">
+        <input type="search" id="searchCountry" placeholder="Buscar país (ex: Japão, Marrocos, Índia)…" aria-label="Buscar país">
+        <select id="regionFilter" aria-label="Filtrar por região">
+          <option value="">Todas as regiões</option>
+        </select>
+        <select id="sortSelect" aria-label="Ordenar">
+          <option value="name-asc">Nome (A-Z)</option>
+          <option value="evangelical-asc">% Evangélico (menor → maior)</option>
+          <option value="evangelical-desc">% Evangélico (maior → menor)</option>
+          <option value="population-desc">População (maior → menor)</option>
+          <option value="persecution-asc">Ranking de perseguição</option>
+        </select>
+        <label class="territory-toggle">
+          <input type="checkbox" id="includeTerritories">
+          Incluir territórios (Hong Kong, Macau, Taiwan, Kosovo…)
+        </label>
+      </div>
+      <p class="panel-note" id="countrySummaryNote"></p>
+
+      <div id="countryGrid" class="country-grid"></div>
+      <p id="countryEmpty" class="empty-msg" hidden>Nenhum país encontrado com esse filtro.</p>
+    </section>
+
+    <!-- ABA PERSEGUIÇÃO -->
+    <section id="tab-perseguicao" class="tab-panel">
+      <div class="panel-header">
+        <h2>Lista Mundial da Perseguição 2026</h2>
+        <p class="panel-desc">Os 50 países onde cristãos mais sofrem perseguição por causa da fé, segundo a Portas Abertas. Pesquisa realizada entre 01/10/2024 e 30/09/2025.</p>
+      </div>
+      <div class="legend">
+        <span class="badge level-extrema">Extrema</span>
+        <span class="badge level-muitoalta">Muito Alta</span>
+        <span class="badge level-alta">Alta</span>
+      </div>
+      <div id="persecutionList" class="persecution-list"></div>
+    </section>
+
+    <!-- ABA MAPA -->
+    <section id="tab-mapa" class="tab-panel">
+      <div class="panel-header">
+        <h2>Mapa mundial da perseguição religiosa</h2>
+        <p class="panel-desc">Cores mais escuras = maior nível de perseguição a cristãos (Lista Mundial da Perseguição 2026, Portas Abertas). Passe o mouse sobre um país para ver os detalhes.</p>
+      </div>
+      <p class="panel-note" id="mapUpdateNote"></p>
+      <div class="map-wrap">
+        <div id="worldMap" class="world-map"></div>
+        <div id="mapTooltip" class="map-tooltip" hidden></div>
+      </div>
+      <div class="legend map-legend">
+        <span class="badge level-extrema">Extrema (#1–15)</span>
+        <span class="badge level-muitoalta">Muito Alta (#16–42)</span>
+        <span class="badge level-alta">Alta (#43–50)</span>
+        <span class="badge level-none">Fora da Lista de Perseguição 2026</span>
+        <span class="badge level-nodata">Sem dado de mapa</span>
+      </div>
+      <p class="panel-note">Nota: em resolução mundial, alguns microestados (ex.: Vaticano, Mônaco, San Marino) podem não aparecer visualmente no mapa por serem pequenos demais — mas seguem listados normalmente na aba "Perseguição".</p>
+    </section>
+
+    <!-- ABA MISSIONÁRIOS -->
+    <section id="tab-missionarios" class="tab-panel">
+      <div class="panel-header">
+        <h2>Missionários e pedidos de oração</h2>
+        <p class="panel-desc">Cadastro editável de missionários, campos de atuação e necessidades de oração atuais.</p>
+      </div>
+      <div class="controls">
+        <input type="search" id="searchMissionary" placeholder="Buscar missionário, agência ou país…" aria-label="Buscar missionário">
+      </div>
+      <div id="missionaryGrid" class="missionary-grid"></div>
+      <p id="missionaryEmpty" class="empty-msg" hidden>Nenhum missionário encontrado.</p>
+    </section>
+
+    <!-- ABA SOBRE -->
+    <section id="tab-sobre" class="tab-panel">
+      <div class="panel-header">
+        <h2>Fontes de dados e como manter o app atualizado</h2>
+      </div>
+      <div class="about-card">
+        <h3>Fontes utilizadas</h3>
+        <ul id="sourcesList"></ul>
+        <h3>Como atualizar os dados</h3>
+        <p>Todo o conteúdo do app vem de dois arquivos simples, em <code>data/countries.json</code> e <code>data/missionaries.json</code>. Para atualizar:</p>
+        <ol>
+          <li>Edite os arquivos JSON com os novos números (nova Lista Mundial da Perseguição, novos dados do Joshua Project, novos pedidos de oração dos missionários).</li>
+          <li>Publique novamente a pasta no Netlify (arrastando a pasta atualizada em <a href="https://app.netlify.com" target="_blank" rel="noopener">app.netlify.com</a>, ou via <code>netlify deploy --prod</code>).</li>
+          <li>O app sempre exibe a data/hora atual e a data em que os dados foram gerados, deixando claro se está atualizado.</li>
+        </ol>
+        <p class="note">⚠️ Este é um painel informativo mantido manualmente. Ele não busca dados novos sozinho pela internet — a atualização depende de alguém revisar as fontes originais periodicamente (recomendado: mensalmente para missionários, anualmente para dados de perseguição e religião, que mudam pouco).</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <p>Painel de Missões Mundiais · Dados devem ser revisados periodicamente nas fontes originais · Gerado em <span id="footerGenDate">--</span></p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/map.js"></script>
+</body>
+</html>
